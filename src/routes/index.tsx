@@ -1,12 +1,16 @@
 import { createFileRoute } from '@tanstack/react-router'
 import NavBar from '../components/NavBar'
+import Hero from '../sections/Hero'
 
 export const Route = createFileRoute('/')({ component: App })
 
 function App() {
   return (
-    <div>
+    <main className="relative">
       <NavBar />
-    </div>
-  );
+      <section className="mt-30">
+        <Hero />
+      </section>
+    </main>
+  )
 }
