@@ -1,0 +1,4 @@
+const heroImage: string =
+  'https://lh3.googleusercontent.com/aida-public/AB6AXuB-emH73HE409ab3rYinSWEUqWmtAlP1Jd5OCHalGcYvRIssek-eIxJd5ZSauGB2cd4VVVNs8HTfT8knVCsNeA4tjModYX3DL77IezFQY0LccyoEacwJtQBsYTjnqKoAVu516eqKNztrkTbRDjyuFiRS_8GlgJ5gCtOFj6C4njQqBMkKWjNGM97oS_YA810_lciQarraqO2mDaa9RKu0esuR5wjCjITuPIQl3e3XYExdZR2jAX-JWkkgUymWB4ArZi_QoDeiz1BL86b'
+
+export default heroImage
