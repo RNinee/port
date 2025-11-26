@@ -2,7 +2,7 @@ import Nlogo from '../assets/icons/N-logo.svg'
 
 const NavBar = () => {
   return (
-    <header>
+    <header className="fixed inset-x-0 top-0 z-50 bg-background-light">
       <nav className="px-8 py-10 font-manrope text-xl flex items-center justify-between">
         <div className="flex items-center gap-3">
           <a href="/">
