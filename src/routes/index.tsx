@@ -2,6 +2,7 @@ import { createFileRoute } from '@tanstack/react-router'
 import AboutMe from '../sections/AboutMe'
 import Hero from '../sections/Hero'
 import Portfolio from '../sections/Portfolio'
+import MyContact from '../sections/MyContact'
 
 export const Route = createFileRoute('/')({ component: App })
 
@@ -16,6 +17,9 @@ function App() {
       </section>
       <section className="mt-60 mx-auto">
         <Portfolio />
+      </section>
+      <section className="mt-60 mx-auto">
+        <MyContact />
       </section>
     </main>
   )
