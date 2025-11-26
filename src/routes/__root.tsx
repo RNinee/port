@@ -25,6 +25,11 @@ export const Route = createRootRoute({
         href: appCss,
       },
       {
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: '/N-logo.svg',
+      },
+      {
         rel: 'preconnect',
         href: 'https://fonts.googleapis.com',
       },
@@ -53,7 +58,7 @@ function RootDocument({ children }: { children: React.ReactNode }) {
       <head>
         <HeadContent />
       </head>
-      <body className='bg-background-light'>
+      <body className="bg-background-light">
         <NavBar />
         {children}
         <TanStackDevtools
