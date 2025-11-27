@@ -36,7 +36,7 @@ const MyContact = () => {
           </a>
         </div>
 
-        <div className="text-gray-600 text-base sm:text-lg mt-10 mb-15">
+        <div className="text-gray-600 text-base sm:text-lg mt-10 mb-10">
           © 2025 Phasin Noomkan. All rights reserved.
         </div>
       </div>

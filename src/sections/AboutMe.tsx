@@ -22,8 +22,9 @@ const AboutMe = () => (
           I'm Nine, a Computer Engineering & AI student who loves building
           practical solutions. At Canarie, I work with large language models and
           built a PDF extraction CLI tool using Surya OCR and LangGraph agents.
-          I develop full-stack applications and explore everything from MERN
-          stack to cybersecurity, always learning and tackling new challenges.
+          I develop full-stack applications across MERN stack, Next.js, and
+          Tanstack Start, always exploring new technologies and tackling fresh
+          challenges.
         </p>
         <ul className="flex flex-col gap-6 mt-10 text-black dark:text-white text-base sm:text-lg">
           <li className="flex-row flex gap-3 items-center justify-center md:justify-start">
