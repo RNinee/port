@@ -18,7 +18,10 @@ const Portfolio = () => {
       <div className="grid grid-cols-1 gap-12 justify-center items-center justify-items-center mt-15 sm:grid-cols-2">
         <div className="flex flex-col justify-center items-center w-full max-w-[540px] mx-auto gap-10">
           <div className="flex flex-col gap-6 justify-center items-center w-full">
-            <a href="/" className="cursor-pointer w-full max-w-[520px]">
+            <a
+              href="https://nike-cyan-three.vercel.app/"
+              className="cursor-pointer w-full max-w-[520px]"
+            >
               <div className="aspect-video w-full overflow-hidden rounded-[12px]">
                 <img
                   src={Nike}
@@ -50,7 +53,10 @@ const Portfolio = () => {
         </div>
         <div className="flex flex-col justify-center items-center w-full max-w-[540px] mx-auto gap-10">
           <div className="flex flex-col gap-6 justify-center items-center w-full">
-            <a href="https://agile-springs-85100-1bc255ae9f1e.herokuapp.com/" className="cursor-pointer w-full max-w-[520px]">
+            <a
+              href="https://agile-springs-85100-1bc255ae9f1e.herokuapp.com/"
+              className="cursor-pointer w-full max-w-[520px]"
+            >
               <div className="aspect-video w-full overflow-hidden rounded-[12px]">
                 <img src={Mern} alt="" className="h-full w-full object-cover" />
               </div>
