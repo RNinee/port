@@ -6,7 +6,7 @@ const Portfolio = () => {
   return (
     <section className="max-w-[1050px] mx-auto">
       <div className="flex flex-col gap-6 justify-center items-center">
-        <h2 className="text-[#1A1A1A] text-3xl sm:text-4xl font-bold ">
+        <h2 className="text-[#1A1A1A] text-3xl sm:text-5xl font-bold ">
           Portfolio
         </h2>
         <p className="text-gray-600 text-base sm:text-lg text-center w-full max-w-3xl">
@@ -50,7 +50,7 @@ const Portfolio = () => {
         </div>
         <div className="flex flex-col justify-center items-center w-full max-w-[540px] mx-auto gap-10">
           <div className="flex flex-col gap-6 justify-center items-center w-full">
-            <a href="/" className="cursor-pointer w-full max-w-[520px]">
+            <a href="https://agile-springs-85100-1bc255ae9f1e.herokuapp.com/" className="cursor-pointer w-full max-w-[520px]">
               <div className="aspect-video w-full overflow-hidden rounded-[12px]">
                 <img src={Mern} alt="" className="h-full w-full object-cover" />
               </div>

@@ -8,8 +8,9 @@ const Hero = () => {
           Phasin Noomkan
         </h1>
         <p className="text-gray-600 text-base sm:text-lg max-w-3xl">
-          Product Designer & UI Specialist. Crafting intuitive digital
-          experiences that connect with people.
+          Computer Engineering & AI student at CMKL University. Building
+          intelligent systems and full-stack applications that solve real
+          problems.
         </p>
         <a
           href="/work"

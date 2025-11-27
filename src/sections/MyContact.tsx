@@ -7,7 +7,7 @@ const MyContact = () => {
   return (
     <section className="max-w-[1050px] mx-auto">
       <div className="text-center flex flex-col items-center px-1 sm:px-4">
-        <h2 className="text-[#1A1A1A] text-3xl sm:text-4xl font-bold">
+        <h2 className="text-[#1A1A1A] text-3xl sm:text-5xl font-bold">
           My Contact
         </h2>
         <p className="text-gray-600 text-base sm:text-lg w-full max-w-3xl mx-auto mt-5">
