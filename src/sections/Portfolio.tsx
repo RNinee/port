@@ -1,6 +1,6 @@
-import Nike from '@/assets/images/nike.png'
+import Nike from '@/assets/images/Nike.png'
 import Mern from '@/assets/images/mern.png'
-import Next from '@/assets/images/next.png'
+import Next from '@/assets/images/Next.png'
 
 const Portfolio = () => {
   return (
