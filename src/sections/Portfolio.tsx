@@ -38,7 +38,10 @@ const Portfolio = () => {
             </p>
           </div>
           <div className="flex flex-col gap-6 w-full">
-            <a href="/" className="cursor-pointer w-full max-w-[520px]">
+            <a
+              href="https://github.com/RNinee/NextBlog"
+              className="cursor-pointer w-full max-w-[520px]"
+            >
               <div className="aspect-video w-full overflow-hidden rounded-[12px]">
                 <img src={Next} alt="" className="h-full w-full object-cover" />
               </div>

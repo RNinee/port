@@ -13,10 +13,10 @@ const Hero = () => {
           problems.
         </p>
         <a
-          href="/work"
+          href="https://github.com/RNinee"
           className="max-w-[200px] mt-8 sm:mt-10 flex cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-6 bg-primary text-white text-base font-bold w-full sm:w-auto"
         >
-          View My Work
+          My GitHub
         </a>
         <img
           src={heroImage}
